@@ -1,5 +1,4 @@
 # hello-world
-Test....part of the tutorial for GitHub
 
-As part of the tutorial, this is where I would write a little bit about myself.
+As part of the tutorial, this is where I would have written a little bit about myself.
 :)
